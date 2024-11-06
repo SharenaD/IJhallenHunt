@@ -1,0 +1,36 @@
+* {
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    /* background-color: black; */
+    background-color: rgb(144, 169, 255);
+    /* background-color: rgb(156, 182, 215); */
+}
+
+.logo { 
+    border-bottom: 0.4em;
+    width: 100vw;
+}
+
+h1 {
+        display: flex;
+        justify-content: center;
+        color: black;
+        font-size: 4em;
+        border-radius: 2em;
+        padding-top: 1%;
+        margin: 5%;
+        font-weight: bolder;
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+}
+
+
+
+
+
